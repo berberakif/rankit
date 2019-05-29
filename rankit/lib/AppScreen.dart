@@ -54,7 +54,7 @@ buildList() {
                   subtitle: Text("Photo $i Details"),
                    trailing: Icon(Icons.keyboard_arrow_right),
                    onLongPress: () {
-                    print('pressed');
+                    print('pressedd');
                   },
                   enabled: true,
                 ),
